@@ -1,0 +1,22 @@
+°Branchs
+
+- Servem para desenvolvermos features isolados
+- A branch principal é a main | master
+- é possivel misturar as branchs usando o comando merge
+
+°Comandos
+
+- git branch
+  visualizar as branchs do projeto
+
+- git branch [nome da nova branch]
+  criando uma nova branch
+
+- git checkout [nome da branch]
+  sair da branch atual e acessar a branch indicada
+
+- git checkout -b [nome da nova branch]
+  sair da branch atual e criar uma nova branch
+
+- git branch -D [nome da branch]
+  para remover a branch indicada

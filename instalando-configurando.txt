@@ -1,0 +1,9 @@
+°Instalaçao
+
+Procedimento ,
+  - Acessando o site oficial https://git-scm.com/ ,na aba Download.
+
+°Configuracao
+
+Procedimento ,
+  - Seguir instruçoes da documentaçao.

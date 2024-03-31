@@ -1,0 +1,28 @@
+°Principais comandos do git
+
+- git init
+  inicializar o projeto
+
+- git config -- global user.name | user.email
+  para configurar username e email do git
+
+- git status
+  para visualizar o estado de modificacoes do projeto
+
+- git add [nome do arquivo]
+  adicionando no estado de mudanças
+
+- git commit [nome do arquivo] -m 'comentario'
+  adicionando no estado de estagio
+
+- git log, git log --stat
+  informaçoes sobre os comites
+
+- git diff
+  para visualizar as diferencas entre as modificacoes feitas
+
+- git checkout --[nome do arquivo]
+  para desfazer a alteracao feita
+
+- git restore [nome do arquivo]
+  voltar para o estado do estagio anterior (estado de mudança)

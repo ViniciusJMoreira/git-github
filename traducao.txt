@@ -1,0 +1,22 @@
+Git
+
+- Git é um sistema de controle de versao (CVS) de arquivos,
+com ele podemos desenvolver projetos colaborativos com facilidade.
+
+- Permite recuperar uma versao especifica.
+- Registra diferentes modificacoes de um arquivo.
+- pode resolver os seguintes problemas ,
+  ° Perda de arquivos importante.
+  ° Resgate de versoes anteriores.
+
+- Fluxo de trabalho,
+  °Workdir = Diretorio, 
+  °Index = Preparacao,
+  °Head = Ponteiro.
+
+GitHub
+
+- Serviço para hospedar projetos Git.
+- Permite projetos privados ou open source.
+- Ajuda a desenvolver um networking entre programadores.
+- Serve como um portfolio online.
