@@ -1,1 +1,1 @@
-readme
+Descrição: "Projeto Aprendendo Git e GitHub para Me Tornar um Programador JavaScript Full Stack"
